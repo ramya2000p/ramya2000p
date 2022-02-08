@@ -15,22 +15,19 @@
 <a href=#><img alt="C++" src = "https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 
 ### Web Dev Frameworks:
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<a href=#><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 
 ### AI Frameworks:
 <a href=#><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<a href=#><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href=#><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
 
 ### Let's Connect:
 <a href="https://www.linkedin.com/in/ramya-pandian"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:ramyapandian1220@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Stats:
-<a href = "#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramya2000p&theme=radical&layout=compact" alt="Language Stats">
-
-
-
+<img align="left" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramya2000p&theme=radical&hide=Hack"/>
 
 <!---
 ramya2000p/ramya2000p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
