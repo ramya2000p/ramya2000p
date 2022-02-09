@@ -2,8 +2,7 @@
 
 - 📃 Currently a 3rd year Computer Science student.
 - 🧠 Majoring in Artificial Intelligence
-- 💻 Working towards a career in Full Stack Development
-- 🌐 Self learning React
+- 💻 Working towards a career in Full Stack Web Development
 
 ### Languages:
 <a href=#><img alt="Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
