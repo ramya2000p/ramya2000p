@@ -26,7 +26,7 @@
 <a href = "mailto:ramyapandian1220@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Stats:
-<img align="left" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramya2000p&theme=radical&hide=Hack"/>
+<img align="left" alt="My Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramya2000p&theme=radical&hide=Hack"/>
 
 <!---
 ramya2000p/ramya2000p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
